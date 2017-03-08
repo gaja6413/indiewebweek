@@ -1,1 +1,4 @@
+/.idea
+/.well-known
+/node_modules
 .DS_Store

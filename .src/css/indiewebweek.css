@@ -1,0 +1,53 @@
+body {
+  font-family: "Open Sans", Arial, Helvetica, sans;
+  font-size: medium;
+  line-height: 1.5;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffb100+0,ff5c01+100 */
+  background: #ffb100;
+  /* Old browsers */
+  /* FF3.6-15 */
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #ffb100 0%, #ff5c01 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffb100', endColorstr='#ff5c01', GradientType=0);
+  /* IE6-9 */ }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%; }
+
+body {
+  color: #000; }
+
+a {
+  color: #FF0000; }
+
+h1 {
+  font-size: xx-large;
+  font-size: 2.5em;
+  margin: .3em 0; }
+  h1 a {
+    text-decoration: none;
+    color: #000; }
+
+section {
+  margin-bottom: 4em; }
+
+img {
+  max-width: 100%; }
+
+main {
+  background-color: #fff;
+  background-color: #fff9f0;
+  max-width: 48em;
+  margin: 0 auto;
+  height: 100%;
+  padding: 2em; }
+
+[role=banner] {
+  text-align: center;
+  margin-bottom: 4em; }
+
+.date {
+  font-size: larger; }
